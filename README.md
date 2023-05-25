@@ -53,7 +53,7 @@
 		<a href="Test _Handout.pdf" target="_blank"><button class="btn">Öffnen</button></a>
 	</div>
 	
-	<img src="Logo.png" class="logo">
+	
 
 	<script src="script.js">
   </script>
