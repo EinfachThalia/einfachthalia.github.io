@@ -83,9 +83,11 @@
 
 	<div id="pp" class="tabcontent">
 		<h2>PowerPoint (Download)</h2>
-		<p>Klicke auf den Button, um die Datei herunterzuladen und ggf. direkt zu öffnen </p>
-			<a href="GFS Deutsch Anglizismen 11.2 Thalia Isenmann.pptx" download><button class="btn">Download</button></a>
-			<a href="GFS Deutsch Anglizismen 11.2 Thalia Isenmann.pptx" target="_blank"><button class="btn">Download & Öffnen</button></a>
+		<p>Klicke auf den Button, um die Datei herunterzuladen</p>
+		<p id="oder">ODER</p>
+			<p>öffne die Datei in einem neuen Tab:</p>
+			<a href="GFS Deutsch Anglizismen 11.2 Thalia Isenmann.pdf" download><button class="btn">Download</button></a>
+			<a href="GFS Deutsch Anglizismen 11.2 Thalia Isenmann.pdf" target="_blank"><button class="btn">Öffnen</button></a>
 		
 	</div>
 	
@@ -93,3 +95,4 @@
 	<script src="script.js"></script>
 </body>
 </html>
+
